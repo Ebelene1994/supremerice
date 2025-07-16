@@ -8,7 +8,7 @@ Supreme Rice is a clean, user-friendly e-commerce platform for purchasing premiu
 
 ## 🔗 Live Demo
 
-👉 [Visit Supreme Rice Store](https://ebelene1994.github.io/supremerice_website/products.html](https://supremerice.vercel.app/account.html)  
+👉 [Visit Supreme Rice Store](https://supremerice.vercel.app/account.html)  
 
 
 ## 🌟 Features
