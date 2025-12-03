@@ -2,7 +2,7 @@
 
 Supreme Rice is a clean, user-friendly e-commerce platform for purchasing premium rice varieties in Ghana. Customers can browse a wide selection of rice products, filter by type, price, or category, and shop in bulk or small quantities.
 
-![Screenshot](https://i.postimg.cc/CKHLp2cc/Screenshot-2025-07-16-143030.png)
+![Screenshot](assets/image.png)
 
 ---
 
